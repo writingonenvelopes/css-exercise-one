@@ -33,8 +33,22 @@ h3 {
 
 /*will only show once*/
 .element {
-  background-color: green;
   height: 100px;
   margin: 10px 0;
   width: 100%;
+}
+
+  .orange {
+    background-color: orange;
+
+}
+
+.green {
+  background-color: green;
+
+}
+
+.blue {
+  background-color: blue;
+
 }
